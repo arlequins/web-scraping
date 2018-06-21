@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlequins/web-scraping.git"
+  },
+  "author": "w-an",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlequins/web-scraping/issues"
+  },
+  "homepage": "https://github.com/arlequins/web-scraping#readme",
+  "dependencies": {
+    "args": "^5.0.0",
+    "puppeteer": "^1.5.0"
+  }
+}
